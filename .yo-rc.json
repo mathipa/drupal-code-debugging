@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Drupa Code Debbuging",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mathipa",
+    "githubRepository": "drupal-code-debugging"
+  }
+}
