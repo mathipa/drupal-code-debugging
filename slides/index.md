@@ -1,10 +1,10 @@
 
 # How To Debug Drupal Code
 
-From the terminal, pop in:
+Bishop Karabo Baloyi:
 
   ```yo reveal:slide "Slide Title"```
 
-Available options:
+Come and learn more:
 
  ```--markdown --attributes --notes```
